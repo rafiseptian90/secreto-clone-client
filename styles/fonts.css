@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+.font-brand {
+    font-family: 'Black Han Sans', sans-serif;
+}
+.font-title {
+    font-family: 'Montserrat', sans-serif;
+}
+.font-body {
+    font-family: 'Montserrat', sans-serif;
+}
